@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo} alt="" className="footer-logo" />
-                <p>Welcome to DYP Cafeteria – your go-to place for fresh, delicious, and hygienic meals.We serve a variety of snacks, beverages, and full meals prepared with quality ingredients to keep you energized throughout the day.</p>
+                <p>Welcome to QuickBite – your go-to place for fresh, delicious, and hygienic meals.We serve a variety of snacks, beverages, and full meals prepared with quality ingredients to keep you energized throughout the day.</p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
                     <img src={assets.twitter_icon} alt="" />
@@ -26,14 +26,14 @@ const Footer = () => {
             <div className="footer-content-right">
                 <h2>GET IN TOUCH</h2>
                 <ul>
-                    <li>dypcafeteria21@gmail.com</li>
+                    <li>quickBite12@gmail.com</li>
                     <li>+91 73562 94310</li>
                 </ul>
             </div>
             
         </div>
         <hr />
-        <p className='footer-copyright'>Copyright 2026 © DYP_CAFETERIA.com - All Rights Reserved </p>
+        <p className='footer-copyright'>Copyright 2026 © QuickBite.com - All Rights Reserved </p>
 
     </div>
   )
